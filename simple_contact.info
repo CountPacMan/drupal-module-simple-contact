@@ -1,0 +1,5 @@
+name = Simple Contact
+description = This module removes the send copy to yourself portion of the form.
+package = Epicodus
+core= 7.x
+files[] = simple_contact.module
